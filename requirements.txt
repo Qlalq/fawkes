@@ -1,0 +1,9 @@
+numpy==1.19.5
+tensorflow==2.5.1
+keras==2.4.3
+mtcnn
+pillow==8.0.0
+bleach==4.1.0
+six==1.15.0
+h5py~= 3.1.0
+protobuf==3.15.0
